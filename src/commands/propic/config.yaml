@@ -1,8 +1,0 @@
----
-name: "propic"
-description: "Download target's profile photo"
-commands: 
-  - run
-options:
-  output_path: "output"
-    

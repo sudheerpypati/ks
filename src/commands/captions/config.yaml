@@ -1,9 +1,0 @@
----
-name: "captions"
-description: "Get target's photos captions"
-commands: 
-  - run
-options:
-  output_limit: 0
-  delay: 0
-    

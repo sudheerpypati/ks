@@ -1,9 +1,0 @@
----
-name: "fwersemail"
-description: "Get email of target followers"
-commands: 
-  - run
-options:
-  output_limit: 0
-  delay: 0
-    

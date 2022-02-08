@@ -1,8 +1,0 @@
----
-name: "stories"
-description: "Download target's stories"
-commands: 
-  - run
-options:
-  output_path: "output"
-    

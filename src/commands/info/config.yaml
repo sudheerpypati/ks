@@ -1,6 +1,0 @@
----
-name: "info"
-description: "Get target's info"
-commands: 
-options:
-    

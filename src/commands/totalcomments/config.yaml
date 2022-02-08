@@ -1,9 +1,0 @@
----
-name: "totalcomments"
-description: "Get total comments of target's posts"
-commands: 
-  - run
-options:
-  output_limit: 0
-  delay: 0
-    

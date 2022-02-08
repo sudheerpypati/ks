@@ -1,9 +1,0 @@
----
-name: "followers"
-description: "List target followers"
-commands: 
-  - run
-options:
-  output_limit: 0
-  delay: 0
-    
